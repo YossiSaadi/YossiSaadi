@@ -1,4 +1,4 @@
-![](./html.png) ![](./css.png) ![](./js.png) ![](./react.png) ![](./node.png) ![](./java.png) ![](./jenkins.png) ![](./github.png) ![](./selenium.png) ![](./testing.png) ![](./jest.png)<br>
+![](./html.png) ![](./css.png) ![](./js.png) ![](./react.png) ![](./node.png) ![](./java.png) ![](./selenium.png) ![](./testing.png) ![](./jest.png)<br>
 ![Header](./yossi.png)
 
 PICTURE -> YOSSI SAADI FULL STACK ENGINEER<br>
