@@ -1,10 +1,10 @@
-![Header](./header.png)
+![Header](./assets/header.png)
 
 [![stats](https://github-readme-stats.vercel.app/api?username=yossisaadi&hide=issues,contribs&count_private=trueshow_icons=true&theme=dracula&custom_title=My%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 [![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yossisaadi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![](./html.png) ![](./css.png) ![](./js.png) ![](./react.png) ![](./node.png) ![](./java.png) ![](./selenium.png) ![](./testing.png) ![](./jenkins.png)<br>
+![](./assets/html.png) ![](./assets/css.png) ![](./assets/js.png) ![](./assets/react.png) ![](./assets/node.png) ![](./assets/java.png) ![](./assets/selenium.png) ![](./assets/testing.png) ![](./assets/jenkins.png)<br>
 
 ### Hey GitHub 👋
 
